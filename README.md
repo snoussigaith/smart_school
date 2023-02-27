@@ -1,6 +1,6 @@
 # smart_school
 
-APPLICATION POUR AUBE NOUVELLE
+APPLICATION POUR EPI school
 
 ## Getting Started
 
